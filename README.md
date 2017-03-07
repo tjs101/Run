@@ -1,7 +1,7 @@
 # Run
 
 
-####本脚本因为我项目有多个target导致很乱，如果只有一个回很简单，如果不想使用脚本，也可以去看看https://github.com/tjs101/XcodeIpa这个mac工具
+####本脚本因为我项目有多个target导致很乱，如果只有一个回很简单，如果不想使用脚本，也可以去看看https://github.com/tjs101/XcodeIpa 这个mac工具
 #######!/bin/sh
 
 #######  run.sh
